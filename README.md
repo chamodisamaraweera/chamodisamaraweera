@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chamodisamaraweera
 - 👀 I’m interested in Business Analysis, Data Analysis, Data Science, and RPA
 - 🌱 I’m currently learning Power automation and business analysis 
-- 💞️ I’m looking to collaborate on Business analysis projects
+- 💞️ I’m looking to collaborate on RPA projects
 - 📫 How to reach me: You can reach me via email at chamodinisansala0926@gmail.com
 
 
